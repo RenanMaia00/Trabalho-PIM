@@ -1,0 +1,27 @@
+{
+    "usuarios": {
+        "admin": {
+            "login": "admin",
+            "nome": "Admin Master",
+            "perfil": "administrador",
+            "__class__": "Usuario"
+        },
+        "secretaria1": {
+            "login": "secretaria1",
+            "nome": "Ana Balela",
+            "perfil": "secretaria",
+            "__class__": "Usuario"
+        }
+    },
+    "professores": {
+        "prof1": {
+            "login": "prof1",
+            "nome": "Osvaldo",
+            "perfil": "professor",
+            "disciplinas_ministradas": [],
+            "__class__": "Professor"
+        }
+    },
+    "alunos": {},
+    "disciplinas": {}
+}
